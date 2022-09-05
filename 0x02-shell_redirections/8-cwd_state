@@ -1,2 +1,0 @@
-#!/binbash
-ls -la > ls_cwd-content
